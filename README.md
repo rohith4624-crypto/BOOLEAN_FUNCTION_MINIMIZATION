@@ -46,6 +46,40 @@ Developed by: RegisterNumber:*/
 
 **Timing Diagram**
 
+Logic Diagram:
+![LOGIC DIAGRAM 02](https://github.com/user-attachments/assets/0549c631-2c18-4b71-8cb2-96666ba0c536)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+State Diagram:
+![STATE DIAGRAM 02](https://github.com/user-attachments/assets/df04777c-8097-4c41-8690-5546cdb512d4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
